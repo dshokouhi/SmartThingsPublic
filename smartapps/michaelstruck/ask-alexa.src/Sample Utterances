@@ -199,6 +199,7 @@ MacroOperation to tell me the {Macro}
 MacroOperation turn on {Macro} report
 MacroOperation turn on the {Macro}
 MacroOperation give me the {Macro} 
+MacroOperation get the {Marco}
 MacroOperation execute the {Macro}
 MacroOperation report on the {Macro}
 MacroOperation control the {Macro}
